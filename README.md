@@ -1,2 +1,2 @@
-# Bambenek_Threat_Intyellegence_Feed_Backup_Code
+# Bambenek_Threat_Intelligence_Feed_Backup_Code
 Backup_Code_Review
